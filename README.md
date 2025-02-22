@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **SEDocotor**!
 
-![Profile Banner](https://drive.google.com/file/d/1nySkeqwHve14BpVT09f1oK7ozNencDkI/view?usp=drive_link)
+![Profile Banner](https://github.com/SEDocotor/SEDocotor/blob/main/Octobot.jpg)
 
 I'm a passionate **Full Stack Developer** who specializes in **Node.js**. I primarily work with JavaScript and enjoy building both the frontend and backend of applications. While I have experience with HTML and CSS, my main focus is server-side development and APIs.
 
