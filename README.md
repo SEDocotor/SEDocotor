@@ -38,12 +38,12 @@ I'm a passionate **Full Stack Developer** who specializes in **Node.js**. I prim
 Here are some of the projects I've worked on:
 
 ### 1. **OctoBank**
-   - **Description**: A Discord bot built with Discord.js that handles various commands and automation for Discord servers.
+   - **Description**: A fully functional Discord banking bot with a DB backend.
    - **Tech Stack**: JavaScript, Node.js, Discord.js, MariaDB
    - [View the project](https://github.com/OcularGG/OctoBank)
 
 ### 2. **OctoBot**
-   - **Description**: A data analysis project that scrapes and processes in-game data from the popular MMO, Albion Online.
+   - **Description**: A Discord bot built with Discord.js that handles various commands and automation for Discord servers.
    - **Tech Stack**: JavaScript, Node.js, MariaDB
    - [View the project](https://github.com/OcularGG/Octobot)
 
