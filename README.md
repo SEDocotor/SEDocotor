@@ -27,9 +27,8 @@ I'm a passionate **Back End Developer** who specializes in **Node.js**. I primar
 ## 🌱 **Currently Learning**
 
 - RESTful APIs and WebSockets
-- Node.js
-- GO
-
+- Scala
+- Java
 ---
 
 ## 🚀 **Projects**
